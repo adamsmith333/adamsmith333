@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamsmith333
+- 👋 Hi, I’m @adamsmith
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,6 +6,6 @@
 smithadamaguero@gmail.com
 
 <!---
-adamsmith333/adamsmith333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+adamsmith/adamsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
